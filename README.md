@@ -10,10 +10,7 @@
 
   Welcome to my github, I mostly post shitty things.
 
-  <scipt>
-  var x = document.getElementById("demo");
-  x.innerHTML = "Hello World!";
-  </script>
+  <script type="text/javascript" src="GetView.js"></script>
 
   ## Primary
   
