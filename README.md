@@ -10,6 +10,8 @@
 
   Welcome to my github, I mostly post shitty things.
 
+  <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@ritza/demo-embed?embed=true"></iframe>
+
   ## Primary
   
   [![a](https://discord.c99.nl/widget/theme-2/684808662157361170.png)](https://discord.gg/HKdstgextP)
