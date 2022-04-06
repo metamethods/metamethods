@@ -10,9 +10,6 @@
 
   Welcome to my github, I mostly post shitty things.
 
-  <!--- Embed this link https://replit.com/@ritza/demo-embed?embed=true --->
-  [![](https://repl.it/@ritza/demo-embed?embed=true)](https://repl.it/@ritza/demo-embed?embed=true)
-
   ## Primary
   
   [![a](https://discord.c99.nl/widget/theme-2/684808662157361170.png)](https://discord.gg/HKdstgextP)
