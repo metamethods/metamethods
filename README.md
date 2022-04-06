@@ -12,4 +12,4 @@
   
   ## Friends
   
-  [![a3](https://discord.c99.nl/widget/theme-3/898971210531078164.png)]()
+  [![a3](https://discord.c99.nl/widget/theme-3/898971210531078164.png)](https://discord.gg/HKdstgextP)
