@@ -10,7 +10,10 @@
 
   Welcome to my github, I mostly post shitty things.
 
-  ![:DevelopingBread](https://count.getloli.com/get/@DevelopingBread?theme=moebooru)
+  <scipt>
+  var x = document.getElementById("demo");
+  x.innerHTML = "Hello World!";
+  </script>
 
   ## Primary
   
