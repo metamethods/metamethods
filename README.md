@@ -10,8 +10,6 @@
 
   Welcome to my github, I mostly post shitty things.
 
-  <script type="text/javascript" src="GetView.js"></script>
-
   ## Primary
   
   [![a](https://discord.c99.nl/widget/theme-2/684808662157361170.png)](https://discord.gg/HKdstgextP)
