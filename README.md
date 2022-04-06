@@ -10,7 +10,7 @@
 
   Welcome to my github, I mostly post shitty things.
 
-  [![a4](https://count.getloli.com/get/@DevelopingBread?theme=rule34)](https://www.google.com/search?client=opera-gx&q=scientific+name+for+a+pig&sourceid=opera&ie=UTF-8&oe=UTF-8)
+  ![:DevelopingBread](https://count.getloli.com/get/@DevelopingBread?theme=moebooru)
 
   ## Primary
   
