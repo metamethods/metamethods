@@ -10,6 +10,8 @@
 
   Welcome to my github, I mostly post shitty things.
 
+  ![](https://komarev.com/ghpvc/?username=DevelopingBread)
+
   ## Primary
   
   [![a](https://discord.c99.nl/widget/theme-2/684808662157361170.png)](https://discord.gg/HKdstgextP)
