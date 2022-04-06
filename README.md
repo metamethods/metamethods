@@ -5,12 +5,13 @@
   
 ---
 
-Hello there 👋
 
-Welcome to my github, I mostly post shitty things.
+  Hello there 👋
 
+  Welcome to my github, I mostly post shitty things.
 
-    
+  [![a4](https://count.getloli.com/get/@DevelopingBread?theme=rule34)](https://www.google.com/search?client=opera-gx&q=scientific+name+for+a+pig&sourceid=opera&ie=UTF-8&oe=UTF-8)
+
   ## Primary
   
   [![a](https://discord.c99.nl/widget/theme-2/684808662157361170.png)](https://discord.gg/HKdstgextP)
@@ -19,7 +20,3 @@ Welcome to my github, I mostly post shitty things.
   ## Friends
   
   [![a3](https://discord.c99.nl/widget/theme-3/898971210531078164.png)](https://discord.gg/HKdstgextP)
-
-  ---
-  
-  [![a4](https://count.getloli.com/get/@DevelopingBread?theme=rule34)](https://www.google.com/search?client=opera-gx&q=scientific+name+for+a+pig&sourceid=opera&ie=UTF-8&oe=UTF-8)
