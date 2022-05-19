@@ -15,7 +15,6 @@
   ## Primary
   
   [![a](https://discord.c99.nl/widget/theme-2/684808662157361170.png)](https://discord.gg/HKdstgextP)
-  [![a2](https://discord.c99.nl/widget/theme-2/960286680584187914.png)]()
   
   ## Friends
   
