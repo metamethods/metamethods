@@ -29,3 +29,5 @@ __The only good projects, *which i made*, are in `luau`/`lua` <sub>aka roblox's 
   <h2> Discords </h2>
   <img src='https://discord.c99.nl/widget/theme-2/684808662157361170.png'>
 </details>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevelopingBread)](https://github.com/anuraghazra/github-readme-stats)
