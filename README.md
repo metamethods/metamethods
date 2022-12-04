@@ -1,6 +1,6 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-<img src='https://github.com/DevelopingBread/images/blob/sticker-mania/genshin-ganyu-beg.png' style='width: 200px;' align='right'/>__*Pls pls pls donate to them*__ 
+<img src='https://github.com/DevelopingBread/images/blob/sticker-mania/genshin-ganyu-beg.png' style='width: 14vw;' align='right'/>__*Pls pls pls donate to them*__ 
 
 __2 + `more` reasons why__
 - Ukrane is good
@@ -10,7 +10,7 @@ __2 + `more` reasons why__
 
 # Hello there 👋
 
-<img src='https://github.com/DevelopingBread/images/blob/sticker-mania/genshin-shikanoin-heizou.png' style='width: 70px;' align='left'/>Welcome to my github, <br/> my code is awesomely __*100/10*__ <br/> __spagetti code__
+Welcome to my github, <br/> my code is awesomely __*100/10*__ <br/> __spagetti code__
 
 <br/>
 
