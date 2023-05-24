@@ -1,3 +1,1 @@
-Hi 👋
-
-<sub>lazy to rewite this again</sub>
+![Metrics](/github-metrics.svg)
