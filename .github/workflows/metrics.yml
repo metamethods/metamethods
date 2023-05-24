@@ -17,7 +17,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           template: repository
-          user: __metamethods
+          user: metamethods
           repo: TweenWrapper
           filename: tween-wrapper-stats.svg
           committer_message: 'feat: Update Repo TweenWrapper [skip ci]'
