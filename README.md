@@ -2,4 +2,4 @@
 
 [<img align="right" width="42%" src="https://count.getloli.com/get/@:metamethods?theme=rule34">](#)
 <br/>
-[<img align="right" width="42%" src="https://raw.githubusercontent.com/metamethods/metamethods/main/tween-wrapper-stats.svg">](#)
+<!-- [<img align="right" width="42%" src="">](#) -->
