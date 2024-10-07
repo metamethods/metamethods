@@ -13,5 +13,5 @@ I'm a very ~~bad~~ good full stack developer
 thee witters: [@\_\_metamethods](https://twitter.com/__metamethods)\
 thine website: ~~[metatables.studio]()~~[^2]
 
-[^1]: [Artist's Twitter Page](https://x.com/yukisiannn)
+[^1]: Hoshino character [Artist's Twitter page](https://x.com/yukisiannn)
 [^2]: Ive been too lazy to pay for the domain
